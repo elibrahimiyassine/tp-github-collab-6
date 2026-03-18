@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *.pyo
+
 .pytest_cache/
 .coverage
 htmlcov/
@@ -23,3 +24,5 @@ Thumbs.db
 # Variables d'environnement
 .env
 .env.local
+
+Dockerfile
